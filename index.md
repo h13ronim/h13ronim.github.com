@@ -1,20 +1,22 @@
 ---
-title: Marcin Nowicki aka Pr0d1r2 - Ruby on Rails BDD Agile developer and Team Leader using GTD and minimalistic approach
+title: Marcin Michałowski - Freelancer, Ruby on Rails developer, Mac user and GTD-holic
 layout: default
-photo_src: http://gravatar.com/avatar/6079eb9d95034da7c27d3ced3cf6591f.png?r=PG
-photo_dsc: Marcin Nowicki aka Pr0d1r2
+photo_src: http://gravatar.com/avatar/35c89c0834801a7c6095f7e421167b52.png?r=PG
+photo_dsc: Marcin Michałowski aka h13ronim
 ---
 
 # Hello :)
 
-## My name is Marcin Nowicki (aka Pr0d1r2).
+## My name is Marcin Michałowski (aka h13ronim).
 
-I am Ruby on Rails developer and Team Leader using GTD and minimalistic approach.
+I am freelancer, Ruby on Rails developer, Mac user and GTD-holic :)
 
-I use BDD and many other Agile methodologies as my everyday routine for development.
+Every day I fight with my lizard brain.
 
 <hr>
 
-[GitHub](http://github.com/Pr0d1r2),
-[Twitter](http://twitter.com/Pr0d1r2),
-[E-Mail](mailto:pr0d1r2@gmail.com)
+[GitHub](http://github.com/h13ronim),
+[Twitter](http://twitter.com/h13ronim),
+[Delicious](http://delicious.com/h13ronim),
+[LinkedIn](http://linkedin.com/in/marcinmichalowski),
+[E-Mail](mailto:h13ronim@gmail.com)
